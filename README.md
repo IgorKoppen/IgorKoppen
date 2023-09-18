@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello world! meu nome é Igor Koppen, sou desenvolvedor Web.</h1>
+<h1>Hello world! meu nome é Igor Koppen, sou DEV.</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorKoppen&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorKoppen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
