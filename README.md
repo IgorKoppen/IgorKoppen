@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="50px" height="50px"/>
 </div>     
           
-<a href="https://igorkoppenportifolio.netlify.app">Meu Portífolio</a>
+<a href="https://portifolio-github.vercel.app">Meu Portífolio</a>
